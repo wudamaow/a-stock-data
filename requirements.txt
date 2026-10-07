@@ -1,0 +1,9 @@
+# Dependencies documented by upstream SKILL.md.
+mootdx>=0.10
+requests
+pandas
+stockstats
+numpy
+baostock>=0.8
+xlrd>=2.0
+openpyxl

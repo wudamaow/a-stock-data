@@ -2,3 +2,8 @@
 __pycache__/
 *.pyc
 reports/
+.venv/
+.env
+.env.*
+!.env.example
+.pytest_cache/

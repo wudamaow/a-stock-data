@@ -137,6 +137,8 @@ pip install mootdx requests pandas stockstats numpy baostock xlrd openpyxl
 
 > **Codex / OpenClaw 用户：** 把 SKILL.md 的内容贴入你的系统 prompt 或项目上下文文件即可，内嵌的 Python 代码可直接执行。
 
+本地使用与二次开发可参考[本地开发说明](docs/local-development.md)，其中提供虚拟环境、直接运行的行情示例、测试和上游同步命令。
+
 ---
 
 ## 87 个端点能力清单
